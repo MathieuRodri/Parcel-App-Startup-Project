@@ -6,8 +6,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<p align="center">
+  <img src="images/screenshot.png" alt="Screenshot" title="Screenshot">
+</p>
 
 Just the basics to get started with web development using parceljs - HTML, SCSS, JS.
 _Includes import of font-awesome, google fonts and defines default values for elements ( ex: *{margin: 0; padding:0}, etc... )._
