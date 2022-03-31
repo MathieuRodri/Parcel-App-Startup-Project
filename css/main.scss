@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    margin-bottom: 1rem;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: 'Montserrat';
+    font-size: 1.5vmin;
+    font-weight: 500;
+}
+body{
+    padding: 1rem 10%;
+}
+h1{
+    font-size: 5vmin;
+    font-weight: 700;
+}
+h2{
+    font-size: 3vmin;
+    font-weight: 700;
+}
+h3, i{
+    font-size: 2vmin;
+}
+button{
+    border: none;
+    padding: 0.5rem 1.5rem;
+    border-radius: 9999rem;
+    cursor: pointer;
+    line-height: 100%;
+    will-change: transform;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1) 300ms;
+}
+button:hover{
+    transform: scale(110%, 110%);
+    box-shadow: #ddd 0 0.1rem 0.2rem;
+}
