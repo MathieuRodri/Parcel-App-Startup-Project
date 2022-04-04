@@ -1,0 +1,47 @@
+@import 'css/colors';
+
+*{
+    margin: 0;
+    margin-bottom: 1rem;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: 'Montserrat';
+    font-size: 1rem;
+    font-weight: 400;
+    text-decoration: none;
+}
+body{
+    padding: 0 10%;
+}
+h1{
+    font-size: 3rem;
+    font-weight: 700;
+}
+h2{
+    font-size: 2rem;
+    font-weight: 700;
+}
+h3, i{
+    font-size: 1rem;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 0;
+}
+button{
+    cursor: pointer;
+    border: none;
+    padding: .5rem 2rem;
+    border-radius: 9999rem;
+    font-weight: 700;
+    line-height: 100%;
+    will-change: transform;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1) 300ms;
+    &:hover{
+    transform: scale(110%, 110%);
+    box-shadow: #ddd 0 0.1rem 0.2rem;
+    }
+}
