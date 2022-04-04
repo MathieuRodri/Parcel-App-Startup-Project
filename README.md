@@ -26,12 +26,12 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/MathieuRodri/Parcel-App-Startup-Project.svg?style=for-the-badge
 [forks-url]: https://github.com/MathieuRodri/Parcel-App-Startup-Project/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/MathieuRodri/Parcel-App-Startup-Project.svg?style=for-the-badge
 [stars-url]: https://github.com/MathieuRodri/Parcel-App-Startup-Project/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/MathieuRodri/Parcel-App-Startup-Project.svg?style=for-the-badge
 [issues-url]: https://github.com/MathieuRodri/Parcel-App-Startup-Project/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/MathieuRodri/Parcel-App-Startup-Project.svg?style=for-the-badge
 [license-url]: https://github.com/MathieuRodri/Parcel-App-Startup-Project/blob/main/LICENSE
 [product-screenshot]: images/screenshot.png
